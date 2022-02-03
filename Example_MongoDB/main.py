@@ -1,9 +1,10 @@
-# DESCRIPTION:  Main de la Tarea 4 - Base de datos local de la clase Estudiante
-#               Muestra un menu que puede: publicar los 5 objetos iniciales de prueba, mostrar,
-#               agregar, editar y eliminar estudiantes de la base de datos, además salir del
-#               ciclo infinito del menu.
-#               La gestion de la base de datos se realiza a través de Mongo Engine.
-# AUTHOR:       Félix Armenta Aguiñaga - IECA PADTS 3
+"""
+Date:       2022-01-22
+Author:     Félix Armenta Aguiñaga
+File:       main.py
+Brief:      Example using MongoDB on Python with mongoengine package
+Version:    0.0.1
+"""
 
 from mongoengine import *
 from datetime import *
