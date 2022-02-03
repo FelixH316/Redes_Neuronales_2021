@@ -1,6 +1,11 @@
-# DESCRIPTION:  Modulo con la clase Estudiante
-#               Incluye metodos para obtener los atributos privados y también para actualizarlos
-# AUTHOR:       Félix Armenta Aguiñaga - IECA PADTS 3
+"""
+Date:       2022-01-22
+Author:     Félix Armenta Aguiñaga
+File:       StudentIOv2.py
+Brief:      This file includes the Estudiante class declared with private 
+            attributes and the corresponding methods to update them.
+Version:    0.0.1
+"""
 
 
 class Estudiante:
